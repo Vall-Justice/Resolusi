@@ -1,3 +1,4 @@
 - Menguasai Front end menggunakan React JS 
 - Mengurus Berkas Kerja Sehabis Seminggu Lebaran
 - Menguasai Taildwind Sebelum Lebaran
+- Membuat Portofolio Sebelum Melamar Kerja
